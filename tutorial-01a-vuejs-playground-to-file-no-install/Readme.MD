@@ -2,7 +2,7 @@
 Pemrograman Vue JS Bootstrap dengan Copas Coding Online Playground Tanpa Install 
 ================================================================================
 
-Cara Mudah Belajar Pemrograman Vue JS Bootstrap dengan Copas Coding Online Playground Tanpa Install di Komputer Lokal, Menggunakan Javascript dan CSS dari CDN Online.
+Cara Mudah Belajar Pemrograman Vue JS Bootstrap dengan Copas Coding Online Playground [https://bootstrap-vue.org/play](https://bootstrap-vue.org/play) Tanpa Install di Komputer Lokal, Menggunakan Javascript dan CSS dari CDN Online.
 
 Video Tutorial Youtube 
 ----------------------
